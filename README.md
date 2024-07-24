@@ -1,7 +1,6 @@
 - Hello I'm Xingtaiduan, Thanks for visiting my profile
-- lua-scripter
-- QQ: 2235257491
-- Mail: 2235257491@qq.com
+- I'm a lua-scripter,I'm interested in scripting for Roblox
+- QQ: 2235257491 Mail: 2235257491@qq.com
 
 <!---
 Xingtaiduan/Xingtaiduan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
