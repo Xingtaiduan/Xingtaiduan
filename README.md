@@ -1,5 +1,5 @@
-- Hello i'm Xingtaiduan, Thanks for visiting my profile
-- lua-scripter,Roblox Scripting
+- Hello I'm Xingtaiduan, Thanks for visiting my profile
+- lua-scripter
 - QQ: 2235257491
 - Mail: 2235257491@qq.com
 
