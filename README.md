@@ -1,5 +1,5 @@
 - Hello I'm Xingtaiduan, Thanks for visiting my profile
-- I'm a lua-scripter,I'm interested in scripting for Roblox
+- I'm a lua-scripter, I'm interested in scripting for Roblox
 - QQ: 2235257491 Mail: 2235257491@qq.com
 
 <!---
